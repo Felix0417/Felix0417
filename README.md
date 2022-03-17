@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif" width="550"/>
 
 
 <div id="badges" align="center">
@@ -19,3 +19,22 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/JOS2rbj7nkWmJPZMAL/giphy.gif" width="600" height="600"/>
+</div>
+
+:man_technologist: About me :
+
+- :telescope: I would be happy to work as a Junior Java developer.
+
+- :zap: In my free time, I am learning a new stack of technologies and features.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/msk.promo.avramich.m@gmail.com) , [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Felix_the_Cat_msk)
+- ---
+:hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
