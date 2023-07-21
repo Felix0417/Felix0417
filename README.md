@@ -25,7 +25,7 @@
 
 :man_technologist: About me :
 
-- :telescope: I would be happy to work as a Junior Java developer.
+- :telescope: I would be happy to work as a Java developer.
 
 - :zap: In my free time, I am learning a new stack of technologies and features.
 
